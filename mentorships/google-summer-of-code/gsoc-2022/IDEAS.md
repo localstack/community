@@ -66,9 +66,9 @@ Connecting local development environments to real cloud resources via hybrid set
 
 #### Description
 
-Localstack provides a cloud-like environment that can be used for development and testing without needing the actual cloud available. However we are looking into the options of connecting our local development & testing environments to real cloud resources using hybrid setups.
+LocalStack provides a cloud-like environment that can be used for development and testing without needing the actual cloud available. However we are looking into the options of connecting our local development & testing environments to real cloud resources using hybrid setups.
 
-The project would entail creating proxy mechanisms for some key services (e.g., DynamoDB, S3), to allow a “local view” of a subset of the data contained in the real cloud resource. The project would also involvement of critical authentication mechanisms - which credentials to use, how to configure them securely and more.
+The project would entail creating proxy mechanisms for some key services (e.g., DynamoDB, S3, SQS), to allow a “local view” of a subset of the data contained in the real cloud resource. The project would also involve finding a mechanism for managing authentication - which credentials to use, how to configure them securely, and more.
 
 We will be using AWS services predominantly and the project would involve the necessity to introduce callbacks from real AWS into the local dev environment (e.g., an event is received in an SQS queue in the real cloud, then a local Lambda function should be triggered).
 
