@@ -29,10 +29,11 @@ Extract the CLI from the core codebase and investigate different packaging and d
 | Category              | Rating                                                                                       |
 | --------------------- | -------------------------------------------------------------------------------------------- |
 | Type                  | Peripheral                                                                                   |
-| Size                  | Medium                                                                                       |
+| Size                  | Medium (175 hours)                                                                           |
 | Preferred contributor | Student/Professional                                                                         |
 | Mentors               | [@dfangl](https://github.com/dfangl), [@dominikschubert](https://github.com/dominikschubert) |
 | Skills                | Python, Docker                                                                               |
+| Difficulty            | Easy                                                                                         |
 
 #### Description
 
@@ -59,10 +60,11 @@ Connecting local development environments to real cloud resources via hybrid set
 | Category              | Rating                                                                     |
 | --------------------- | -------------------------------------------------------------------------- |
 | Type                  | Peripheral/Core Development                                                |
-| Size                  | Large                                                                      |
+| Size                  | Large (350 hours)                                                          |
 | Preferred contributor | Student/Professional                                                       |
 | Mentors               | [@whummer](https://github.com/whummer), [@thrau](https://github.com/thrau) |
 | Skills                | Python, Docker, AWS                                                        |
+| Difficulty            | Hard                                                                       |
 
 #### Description
 
@@ -89,10 +91,11 @@ Cloud service emulation in Google Cloud Platform (GCP).
 | Category              | Rating                                                                           |
 | --------------------- | -------------------------------------------------------------------------------- |
 | Type                  | Peripheral/Exploratory                                                           |
-| Size                  | Large                                                                            |
+| Size                  | Large (350 hours)                                                                |
 | Preferred contributor | Student                                                                          |
 | Mentors               | [@alexrashed](https://github.com/alexrashed), [@thrau](https://github.com/thrau) |
 | Skills                | Python, Docker, GCP                                                              |
+| Difficulty            | Medium                                                                           |
 
 #### Description
 
@@ -124,10 +127,11 @@ Implementation of Azure API specifications for server-side code generation and r
 | Category              | Rating                                                                                             |
 | --------------------- | -------------------------------------------------------------------------------------------------- |
 | Type                  | Exploratory                                                                                        |
-| Size                  | Medium                                                                                             |
+| Size                  | Medium (175 hours)                                                                                 |
 | Preferred contributor | Student/Professional                                                                               |
 | Mentors               | [@alexrashed](https://github.com/alexrashed), [@viren-nadkarni](https://github.com/viren-nadkarni) |
 | Skills                | Python, Docker, Azure                                                                              |
+| Difficulty            | Medium                                                                                             |
 
 #### Description
 
@@ -153,10 +157,11 @@ Extend LocalStack with (account) management services such as "AWS Billing and Co
 | Category              | Rating                                                 |
 | --------------------- | ------------------------------------------------------ |
 | Type                  | Core Development                                       |
-| Size                  | Medium                                                 |
+| Size                  | Medium (175 hours)                                     |
 | Preferred contributor | Student/Professional                                   |
 | Mentors               | [@dominikschubert](https://github.com/dominikschubert) |
 | Skills                | Python, Docker, AWS                                    |
+| Difficulty            | Easy                                                   |
 
 #### Description
 
